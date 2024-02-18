@@ -4,6 +4,8 @@ import { func } from 'prop-types'
 
 function App() {
 
+  const [input , handleInput] = useState("")
+
   async function query(data) {
     const response = await fetch(
       "https://api-inference.huggingface.co/models/cardiffnlp/twitter-roberta-base-sentiment-latest",
