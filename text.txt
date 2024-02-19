@@ -2,3 +2,5 @@ in case fo hugging face read and write
     -read being if you just want to read from other models(use models made by others)
     -write beitg you want to create your model
     -this is one of the main things is that there are the ways one in the end of the all of this we will be able to make this work and alr in int here be able to hack some cool shit
+
+    
